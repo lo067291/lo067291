@@ -40,22 +40,25 @@ Built a segmented virtual lab with a pfSense firewall, Snort IDS/IPS, and an Ubu
 
 ## 🛠️ Technical Skills
 
-**Languages:**  
-- C (Proficient - Data Structures & Algorithms)
-- Python (Learning - ML & Data Science)
-- Java (Fall 2026)
+**Languages**
 
-**Areas of Focus:**  
-- Machine Learning & AI
-- Embedded Systems & Microcontrollers
-- Network Security & Cryptography
-- Data Structures & Algorithms
+![C, Python](assets/skills-languages.svg)
 
-**Tools:**  
-- Git & GitHub
-- Linux/Unix
-- CLion
-- PyCharm
+**Machine Learning & Computer Vision**
+
+![scikit-learn, OpenCV, MediaPipe, pandas, NumPy](assets/skills-ml-vision.svg)
+
+**Cybersecurity & Networking**
+
+![pfSense, Snort, Kali Linux, Ubuntu, VirtualBox](assets/skills-security.svg)
+
+**Development Tools**
+
+![Git, GitHub, Linux, CLion, PyCharm](assets/skills-development.svg)
+
+**Applied concepts:** Data structures & algorithms · Hardware integration · Model evaluation · Network segmentation · Intrusion detection
+
+**Coursework:** Java — Fall 2026
 
 ---
 
