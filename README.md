@@ -1,10 +1,13 @@
 ![Logan Stacy — charcoal and cyan engineering banner](assets/profile-banner.jpg)
 
-# Hi, I'm Logan Stacy 👋
+## Hi, I'm Logan 👋
 
-🎓 **Computer Engineering @ UCF** (BS/MS Accelerated Program)  
-🔐 **CompTIA Security+ & Network+ Certified**  
-🤖 **Interested in:** Machine Learning, Embedded Systems, Cybersecurity
+I'm a Computer Engineering student at the University of Central Florida in the accelerated BS/MS program. My interests span **software and embedded engineering**, **machine learning**, and **cybersecurity**.
+
+I build projects that connect these interests—from computer vision for drone control to machine learning for intrusion detection and hands-on network security labs.
+
+**Certifications:** CompTIA Security+ · CompTIA Network+  
+**Seeking:** Summer 2027 internships in software/embedded engineering, machine learning, or cybersecurity.
 
 ---
 
@@ -40,7 +43,7 @@
 ## 🎯 2026 Goals
 
 - ✅ Complete Security+ certification
-- 🔄 Complete Network+ certification (May 2026)
+- ✅ Complete Network+ certification
 - 🔄 Master Python and build ML portfolio projects
 - 🔄 Secure Summer 2027 internship in ML, cybersecurity, or embedded systems
 
@@ -69,6 +72,6 @@ Student Email: lo067291@ucf.edu
 
 ---
 
-💼 **Open to Summer 2027 internship opportunities in Machine Learning, Cybersecurity, and Embedded Systems**
+💼 **Open to Summer 2027 internships in Software/Embedded Engineering, Machine Learning, and Cybersecurity**
 
-*Last updated: May 2026*
+*Last updated: September 2026*
