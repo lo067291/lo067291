@@ -46,17 +46,19 @@ Built a segmented virtual lab with a pfSense firewall, Snort IDS/IPS, and an Ubu
 
 **Machine Learning & Computer Vision**
 
-![scikit-learn, OpenCV, MediaPipe, pandas, NumPy](assets/skills-ml-vision.svg)
+![scikit-learn, OpenCV, MediaPipe, pandas, NumPy, Matplotlib](assets/skills-ml-vision.svg)
 
 **Cybersecurity & Networking**
 
-![pfSense, Snort, Kali Linux, Ubuntu, VirtualBox](assets/skills-security.svg)
+![pfSense, Snort, Kali Linux, Ubuntu, VirtualBox, fail2ban, Metasploit, Nmap, Hydra, Nikto, Gobuster, Hashcat](assets/skills-security.svg)
+
+**Security practices:** Firewall configuration · WAN/DMZ architecture · Network traffic analysis · Incident response · System hardening · Blue team defense · Penetration testing · Security auditing · CTF / offensive security
 
 **Development Tools**
 
-![Git, GitHub, Linux, CLion, PyCharm](assets/skills-development.svg)
+![Git, GitHub, Linux, CLion, PyCharm, VS Code, IntelliJ IDEA](assets/skills-development.svg)
 
-**Applied concepts:** Data structures & algorithms · Hardware integration · Model evaluation · Network segmentation · Intrusion detection
+**Applied concepts:** Object-Oriented Programming · Data structures & algorithms · Hardware integration · Model evaluation · Network segmentation · Intrusion detection
 
 **Coursework:** Java — Fall 2026
 
@@ -64,6 +66,8 @@ Built a segmented virtual lab with a pfSense firewall, Snort IDS/IPS, and an Ubu
 
 ## 📚 Currently Learning
 
+- Java
+- C++
 - Python for data science (NumPy, Pandas, Matplotlib)
 - Machine learning fundamentals
 - Preparing for UCF's ISML (Intelligent Systems & Machine Learning) MS track
