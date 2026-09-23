@@ -16,7 +16,7 @@ I build projects that connect these interests—from computer vision for drone c
 ### [Gesture Recognition Drone](https://github.com/lo067291/Gesture-Recognition-Drone)
 **Software & Hardware Integration · Computer Vision**
 
-Developing a gesture-controlled DJI Tello drone with face authentication and nine-gesture classification using hand-relative 3D landmark geometry. Drone connectivity, video streaming, authentication, and gesture recognition are implemented; gesture-to-flight integration and PID finger-following remain in progress.
+Developing a gesture-control system for a DJI Tello with separate flight-control and face-recognition prototypes. Currently debugging a nine-gesture webcam classifier using landmark-distance heuristics and hand-relative projections. Gesture-to-flight integration is pending; threading and PID finger-following have not started, and return-to-launch is unfinished.
 
 **Built with:** Python · OpenCV · MediaPipe · djitellopy
 
@@ -76,7 +76,7 @@ Built a segmented virtual lab with a pfSense firewall, Snort IDS/IPS, and an Ubu
 
 ## 🎯 Current Focus
 
-- Integrate gesture recognition with live drone commands.
+- Debug gesture classification, then integrate it with live drone commands.
 - Build proficiency in Java and C++.
 - Deepen machine learning and defensive security skills.
 
