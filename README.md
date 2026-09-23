@@ -74,12 +74,11 @@ Built a segmented virtual lab with a pfSense firewall, Snort IDS/IPS, and an Ubu
 
 ---
 
-## 🎯 2026 Goals
+## 🎯 Current Focus
 
-- ✅ Complete Security+ certification
-- ✅ Complete Network+ certification
-- 🔄 Master Python and build ML portfolio projects
-- 🔄 Secure Summer 2027 internship in ML, cybersecurity, or embedded systems
+- Integrate gesture recognition with live drone commands.
+- Build proficiency in Java and C++.
+- Deepen machine learning and defensive security skills.
 
 ---
 
