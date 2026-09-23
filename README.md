@@ -1,6 +1,4 @@
-# LoganStacy
-My personal GitHub profile README - Computer Engineering student @ UCF specializing in ML and Cybersecurity
-
+![Logan Stacy — charcoal and cyan engineering banner](assets/profile-banner.jpg)
 
 # Hi, I'm Logan Stacy 👋
 
