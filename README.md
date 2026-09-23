@@ -83,9 +83,9 @@ Built a segmented virtual lab with a pfSense firewall, Snort IDS/IPS, and an Ubu
 ---
 
 ## 📫 Connect With Me
-LinkedIn: www.linkedin.com/in/logan-stacy
-Personal Email: ycats20000@gmail.com
-Student Email: lo067291@ucf.edu
+
+**Best way to reach me:** [lo067291@ucf.edu](mailto:lo067291@ucf.edu)  
+**LinkedIn:** [Logan Stacy](https://www.linkedin.com/in/logan-stacy)
 
 ---
 
